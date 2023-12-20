@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/878850589428842346/6a193ee55197411b8893bca0120119c6/artifacts
+end_time: 1703011142559
+entry_point_name: ''
+experiment_id: '878850589428842346'
+lifecycle_stage: active
+run_id: 6a193ee55197411b8893bca0120119c6
+run_name: Linear Discriminant Analysis
+run_uuid: 6a193ee55197411b8893bca0120119c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703011142398
+status: 3
+tags: []
+user_id: marvin.chavez.gt

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/819623052807504062/0e2c3e4fc1dd4c75adc81d5ba0f329fd/artifacts
+end_time: 1703010978612
+entry_point_name: ''
+experiment_id: '819623052807504062'
+lifecycle_stage: active
+run_id: 0e2c3e4fc1dd4c75adc81d5ba0f329fd
+run_name: Logistic Regression
+run_uuid: 0e2c3e4fc1dd4c75adc81d5ba0f329fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703010978369
+status: 3
+tags: []
+user_id: marvin.chavez.gt

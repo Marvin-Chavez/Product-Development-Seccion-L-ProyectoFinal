@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/819623052807504062/a42aa709d4c94828b4a457d986cffe66/artifacts
+end_time: 1703010982611
+entry_point_name: ''
+experiment_id: '819623052807504062'
+lifecycle_stage: active
+run_id: a42aa709d4c94828b4a457d986cffe66
+run_name: SVM - Linear Kernel
+run_uuid: a42aa709d4c94828b4a457d986cffe66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703010982442
+status: 3
+tags: []
+user_id: marvin.chavez.gt

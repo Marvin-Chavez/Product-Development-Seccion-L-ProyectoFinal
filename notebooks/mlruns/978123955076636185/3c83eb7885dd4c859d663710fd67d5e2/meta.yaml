@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/978123955076636185/3c83eb7885dd4c859d663710fd67d5e2/artifacts
+end_time: 1703010768877
+entry_point_name: ''
+experiment_id: '978123955076636185'
+lifecycle_stage: active
+run_id: 3c83eb7885dd4c859d663710fd67d5e2
+run_name: K Neighbors Classifier
+run_uuid: 3c83eb7885dd4c859d663710fd67d5e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703010768683
+status: 3
+tags: []
+user_id: marvin.chavez.gt

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/819623052807504062/63035084199e4e18a8da2f72f6740aea/artifacts
+end_time: 1703011064223
+entry_point_name: ''
+experiment_id: '819623052807504062'
+lifecycle_stage: active
+run_id: 63035084199e4e18a8da2f72f6740aea
+run_name: Decision Tree Classifier
+run_uuid: 63035084199e4e18a8da2f72f6740aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703011063828
+status: 3
+tags: []
+user_id: marvin.chavez.gt

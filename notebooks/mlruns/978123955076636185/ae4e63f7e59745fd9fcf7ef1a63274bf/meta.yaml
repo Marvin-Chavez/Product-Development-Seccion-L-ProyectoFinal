@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/978123955076636185/ae4e63f7e59745fd9fcf7ef1a63274bf/artifacts
+end_time: 1703010764107
+entry_point_name: ''
+experiment_id: '978123955076636185'
+lifecycle_stage: active
+run_id: ae4e63f7e59745fd9fcf7ef1a63274bf
+run_name: Random Forest Classifier
+run_uuid: ae4e63f7e59745fd9fcf7ef1a63274bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703010763932
+status: 3
+tags: []
+user_id: marvin.chavez.gt

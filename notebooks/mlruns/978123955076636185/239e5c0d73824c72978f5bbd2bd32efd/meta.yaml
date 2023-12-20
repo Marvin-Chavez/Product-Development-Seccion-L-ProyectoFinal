@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/978123955076636185/239e5c0d73824c72978f5bbd2bd32efd/artifacts
+end_time: 1703010768306
+entry_point_name: ''
+experiment_id: '978123955076636185'
+lifecycle_stage: active
+run_id: 239e5c0d73824c72978f5bbd2bd32efd
+run_name: Light Gradient Boosting Machine
+run_uuid: 239e5c0d73824c72978f5bbd2bd32efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703010767127
+status: 3
+tags: []
+user_id: marvin.chavez.gt

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/878850589428842346/84a5739e53034d8e9e59c9a2a0e5020b/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '878850589428842346'
+lifecycle_stage: active
+run_id: 84a5739e53034d8e9e59c9a2a0e5020b
+run_name: Session Initialized 3f71
+run_uuid: 84a5739e53034d8e9e59c9a2a0e5020b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703011069616
+status: 1
+tags: []
+user_id: marvin.chavez.gt

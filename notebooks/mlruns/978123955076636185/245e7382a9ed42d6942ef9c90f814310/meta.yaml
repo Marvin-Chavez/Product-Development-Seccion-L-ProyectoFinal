@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/978123955076636185/245e7382a9ed42d6942ef9c90f814310/artifacts
+end_time: 1703010766999
+entry_point_name: ''
+experiment_id: '978123955076636185'
+lifecycle_stage: active
+run_id: 245e7382a9ed42d6942ef9c90f814310
+run_name: Ada Boost Classifier
+run_uuid: 245e7382a9ed42d6942ef9c90f814310
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703010766816
+status: 3
+tags: []
+user_id: marvin.chavez.gt

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/819623052807504062/f566038c39324f9dbe77d0b237225127/artifacts
+end_time: 1703010978936
+entry_point_name: ''
+experiment_id: '819623052807504062'
+lifecycle_stage: active
+run_id: f566038c39324f9dbe77d0b237225127
+run_name: Ridge Classifier
+run_uuid: f566038c39324f9dbe77d0b237225127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703010978723
+status: 3
+tags: []
+user_id: marvin.chavez.gt

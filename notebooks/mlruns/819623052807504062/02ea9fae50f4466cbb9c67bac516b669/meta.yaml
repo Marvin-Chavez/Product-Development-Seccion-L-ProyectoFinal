@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/819623052807504062/02ea9fae50f4466cbb9c67bac516b669/artifacts
+end_time: 1703010979997
+entry_point_name: ''
+experiment_id: '819623052807504062'
+lifecycle_stage: active
+run_id: 02ea9fae50f4466cbb9c67bac516b669
+run_name: Gradient Boosting Classifier
+run_uuid: 02ea9fae50f4466cbb9c67bac516b669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703010979746
+status: 3
+tags: []
+user_id: marvin.chavez.gt

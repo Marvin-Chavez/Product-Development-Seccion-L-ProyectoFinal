@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/978123955076636185/fe9716b0e9dc4f51af73d83cfaf78c41/artifacts
+end_time: 1703010777651
+entry_point_name: ''
+experiment_id: '978123955076636185'
+lifecycle_stage: active
+run_id: fe9716b0e9dc4f51af73d83cfaf78c41
+run_name: Dummy Classifier
+run_uuid: fe9716b0e9dc4f51af73d83cfaf78c41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703010777283
+status: 3
+tags: []
+user_id: marvin.chavez.gt

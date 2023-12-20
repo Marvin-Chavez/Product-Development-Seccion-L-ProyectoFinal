@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/978123955076636185/29c08fbf7d734f95af1dffc5ebfd708d/artifacts
+end_time: 1703010768560
+entry_point_name: ''
+experiment_id: '978123955076636185'
+lifecycle_stage: active
+run_id: 29c08fbf7d734f95af1dffc5ebfd708d
+run_name: Naive Bayes
+run_uuid: 29c08fbf7d734f95af1dffc5ebfd708d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703010768448
+status: 3
+tags: []
+user_id: marvin.chavez.gt

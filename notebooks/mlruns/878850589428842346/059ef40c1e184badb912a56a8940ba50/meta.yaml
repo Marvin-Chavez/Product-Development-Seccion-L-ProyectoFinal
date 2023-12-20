@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/878850589428842346/059ef40c1e184badb912a56a8940ba50/artifacts
+end_time: 1703011147705
+entry_point_name: ''
+experiment_id: '878850589428842346'
+lifecycle_stage: active
+run_id: 059ef40c1e184badb912a56a8940ba50
+run_name: Quadratic Discriminant Analysis
+run_uuid: 059ef40c1e184badb912a56a8940ba50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703011147190
+status: 3
+tags: []
+user_id: marvin.chavez.gt

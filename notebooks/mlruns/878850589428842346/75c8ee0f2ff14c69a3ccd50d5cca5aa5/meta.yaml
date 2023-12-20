@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/marvin.chavez.gt/Documents/scratch/ProyectoFinal/notebooks/mlruns/878850589428842346/75c8ee0f2ff14c69a3ccd50d5cca5aa5/artifacts
+end_time: 1703011143474
+entry_point_name: ''
+experiment_id: '878850589428842346'
+lifecycle_stage: active
+run_id: 75c8ee0f2ff14c69a3ccd50d5cca5aa5
+run_name: Extra Trees Classifier
+run_uuid: 75c8ee0f2ff14c69a3ccd50d5cca5aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703011143332
+status: 3
+tags: []
+user_id: marvin.chavez.gt
